@@ -90,17 +90,3 @@ scissor.addEventListener("click", () => {
     calculateFinalResult();
 });
 
-
-/*
-
-function playGame() {
-//    let playerSelection = prompt("Please pick: Rock, Paper or Scissor");
-    let computerSelection = getComputerChoice();
-    console.log(playRound(playerSelection, computerSelection))
-}
-
-*/
-
-
-
-
